@@ -43,7 +43,15 @@ This includes moving the snake, checking for apples, and checking for collisions
 
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/2d9bea7a-2920-44a3-a4b4-187d2445b54f)
+
+
+
+
+
 
 
 
