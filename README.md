@@ -13,7 +13,12 @@ Features
 3.Each time that the snake eats, it will grow longer.
 4.If the snake collides with the wall or to itself, then the game is finished.
 5.The score is printed at the top of the screen, indicating the number of food pieces the snake has eaten.
+
+
+
 ![Screenshot 2024-12-05 191425](https://github.com/user-attachments/assets/824fa40d-dbfe-484f-b3ac-28faf83b5d5a)
+
+
 
 
 
@@ -34,7 +39,13 @@ The draw method handles rendering the snake, the apple, and the score. It change
 
 Game logic
 This includes moving the snake, checking for apples, and checking for collisions. The snake moves by updating the positions of its parts. Eating an apple increases the snake’s length and the score. Collisions with the wall or the snake itself stop the game.
+
+
+
+
 ![image](https://github.com/user-attachments/assets/2d9bea7a-2920-44a3-a4b4-187d2445b54f)
+
+
 
 
 
